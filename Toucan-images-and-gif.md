@@ -20,4 +20,4 @@ Toucan front flying gif
 
 ![gif_animation_front](https://user-images.githubusercontent.com/121849308/210715140-6506a779-3164-40e0-86a3-7d089b993432.gif)
 
-![gif_animation_front-white](https://user-images.githubusercontent.com/121849308/218458782-72853402-a4b5-402d-b0ae-a1cbe78b0f31.gif)
+![gif_animation_frontWhite](https://user-images.githubusercontent.com/121849308/218460435-ec466b91-bce0-476f-ac14-0e6c14dd6dad.gif)
